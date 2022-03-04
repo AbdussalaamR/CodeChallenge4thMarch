@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CodeChallenge4thMarch.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\HP\RiderProjects\CodeChallenge4thMarch\.idea\.idea.CodeChallenge4thMarch\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
